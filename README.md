@@ -9,9 +9,9 @@
 - Recommendations: JavaScript, Python, Ruby, HTML
 
 # Exercism
-http://exercism.io/
-https://github.com/heath3conk/exercism
+- http://exercism.io/
+- https://github.com/heath3conk/exercism
 
 # Other resources
-[PC Magazine article](https://www.pcmag.com/article2/0,2817,2494807,00.asp) about the best programs for learning to code
-[Skillcrush article](https://skillcrush.com/2016/03/15/64-online-resources-to-learn-to-code-for-free/) about free resources for learning to code
+- [PC Magazine article](https://www.pcmag.com/article2/0,2817,2494807,00.asp) about the best programs for learning to code
+- [Skillcrush article](https://skillcrush.com/2016/03/15/64-online-resources-to-learn-to-code-for-free/) about free resources for learning to code
