@@ -1,4 +1,6 @@
-# How to dabble in coding, or *Dipping your toe in the developer pool*
+# How to dabble in coding
+## or *Dipping your toe in the developer pool* ##
+
 (Information for Learn Day February 2018)
 
 # Choosing a good language to play around with
