@@ -10,6 +10,10 @@
 - [PC Magazine article](https://www.pcmag.com/article2/0,2817,2494807,00.asp) about the best programs for learning to code
 - [Skillcrush article](https://skillcrush.com/2016/03/15/64-online-resources-to-learn-to-code-for-free/) about free resources for learning to code
 
+# Codecademy
+- It's free!
+- [Sign up](https://www.codecademy.com/)
+
 # Exercism
 - http://exercism.io/
 - https://github.com/heath3conk/exercism
@@ -18,5 +22,9 @@
 1. Go to the website! You may have to switch to Allstate Guest to get here.
 2. Click on the 'Languages' tab at the top of the page and choose Ruby.
 3. Install Ruby - see menu on the left side of the page, then go to the 'Jumpstart Lab' setup instructions
-    - Choose whichever type of computer you have from the options on the right side of the page
-    - You can probably skip the Git installation for now. (What is git, you ask?) Ditto PostgreSQL.
+    - Choose whichever type of computer you have from the options on the right side of the page & follow the instructions
+    - You can probably skip the PostgreSQL.
+4. Get the Exercism [command-line client](http://exercism.io/clients/cli) so you can fetch exercises and submit them
+5. Configure exercism so you can submit exercises: Go to [your API key](http://exercism.io/account/key) page (you have to have logged into exercism with GitHub to do this) and copy and paste the `exercism configure --key={yourAPIkey}` into your command line.
+6. `exercism fetch ruby` And you're ready to go!
+7. Open a text editor, like Atom, Sublime, or IntelliJ to run your code.
