@@ -14,12 +14,8 @@
 - It's free!
 - [Sign up](https://www.codecademy.com/)
 
-# Exercism
-- http://exercism.io/
-- https://github.com/heath3conk/exercism
-
-## Steps for using exercism
-1. Go to the website! You may have to switch to Allstate Guest to get here.
+## Steps for using Exercism
+1. Go to the [website](http://exercism.io/)! You will probably have to switch to Allstate Guest to get here.
 2. Click on the 'Languages' tab at the top of the page and choose Ruby.
 3. Install Ruby - see menu on the left side of the page, then go to the 'Jumpstart Lab' setup instructions
     - Choose whichever type of computer you have from the options on the right side of the page & follow the instructions
